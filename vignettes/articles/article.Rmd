@@ -1,0 +1,14 @@
+---
+title: "page-a"
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(HWmodel)
+```
